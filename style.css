@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav{
+    background-color: rgb(0, 255, 115);
+    
+}
+
+
+nav h1{
+    color: aliceblue;
+    
+}
+nav img{
+    width: 10px;
+    
+}
+nav  {
+    background-color: rgb(0, 255, 55);
+    
+    overflow: hidden;
+}
+ nav ul{
+    color: blue;
+    display: flex;
+    gap: 20px;
+    margin-left: 750px;
+}
+body img{
+    width: 1500px;
+    height: 80%;
+}
+
+
